@@ -18,6 +18,11 @@ div li {
   align-items: center;
 }
 
+div input {
+  display: flex;
+  align-items: center;
+}
+
 div li + li {
   margin-top: 15px;
 }
